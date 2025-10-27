@@ -1,7 +1,7 @@
 # Product Sales Analysis Pens Printers
 
 <div align="center">
-  <img src="0_projectimage_pensandprinters.png" style="width:90%; max-width:1000px;"/><br>
+  <img src="0_projectimage_pensandprinters.png" style="width:60%; max-width:600px;"/><br>
   <em>Source: <a href="https://www.freepik.com/free-photo/overhead-view-office-stationeries-laptop-white-background_3776082.htm#fromView=search&page=1&position=7&uuid=d7b826fc-f935-4bb6-94cd-86f7087545e6&query=office+products">Freepik</a></em>
 </div>
 
