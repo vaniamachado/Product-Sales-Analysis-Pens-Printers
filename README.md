@@ -40,4 +40,4 @@ They don’t know if there are other differences between the customers in each g
 - NumPy & SciPy — numerical operations and statistics
 
 
-You can check my solution [here](/Notebook_product-sales-analysis.ipynb).
+Check my solution [here](/Notebook_product-sales-analysis.ipynb).
